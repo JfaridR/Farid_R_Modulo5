@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-tarea",
+  "version": "1.0.0",
+  "description": "Descipcion Tarea2 - Modulo5",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "keywords": [
+    "tarea",
+    "-",
+    "actividad",
+    "-",
+    "estudio"
+  ],
+  "author": "Farid Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "chance": "^1.1.12"
+  }
+}
