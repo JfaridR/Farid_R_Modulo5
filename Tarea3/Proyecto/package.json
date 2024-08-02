@@ -1,0 +1,17 @@
+{
+  "name": "proyecto3",
+  "version": "1.0.0",
+  "description": "asincronia",
+  "type": "module",
+  "main": "init.js",
+  "scripts": {
+    "start": "node init.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farid Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
