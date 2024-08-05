@@ -1,0 +1,18 @@
+{
+  "name": "tarea4",
+  "version": "1.0.0",
+  "description": "Tarea 4",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon index.js",
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farid Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
