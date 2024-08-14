@@ -5,5 +5,5 @@
     { "id": 4, "name": "Pencil", "price": 0.99, "category": "Stationery" },
     { "id": 5, "name": "Book", "price": 9.99, "category": "Stationery" },
     { "id": 6, "name": "Mobile", "price": 999.99, "category": "Electronics" },
-    { "id": 7, "name": "Table", "price": 999.99, "category": "Furniture" },
+    { "id": 7, "name": "Table", "price": 999.99, "category": "Furniture" }
 ]
