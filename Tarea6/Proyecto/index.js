@@ -31,9 +31,7 @@ const server = http.createServer((req, res) => {
             res.writeHead(404)
             res.end(JSON.stringify({ error: 'Ruta no encontrada' }));
     }
-
 });
-
 
 /*const products =  [
 { id: 1, name: 'Laptop', price: 999.99, category: 'Electronics' },
